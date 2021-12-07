@@ -27,7 +27,7 @@ def vote(x):
     vote(input())
     return 
   print ('''
-votes''')
+votes:''')
   print ('Machine Learning ' + str(Machine_Learning))
   print ('Blockchain ' + str(Blockchain))
   print ('Advanced Web development ' + str(Advanced_Web_development))
